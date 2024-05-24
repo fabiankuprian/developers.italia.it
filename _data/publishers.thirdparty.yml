@@ -188,6 +188,12 @@
 - name: "Accert"
   repos:
     - "https://github.com/andrea1388/Accert"
+
 - name: "Profesia"
   repos:
     - "https://github.com/profesiait/wemodi"
+
+- name: "CMX - Sito Web Comune di Tesimo"
+  repos:
+    - "https://github.com/comuneditesimo/sitoweb"
+
